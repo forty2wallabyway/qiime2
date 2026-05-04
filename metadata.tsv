@@ -1,0 +1,5 @@
+sample-id    treatment    timepoint    site
+S01    control    T0    soil
+S02    control    T1    soil
+S03    treated    T0    rhizosphere
+S04    treated    T1    rhizosphere
