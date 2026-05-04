@@ -1,0 +1,6 @@
+dada2:
+  trunc_len_f: 235
+  trunc_len_r: 200
+  threads: 0
+
+classifier: silva-515f-806r-classifier.qza
