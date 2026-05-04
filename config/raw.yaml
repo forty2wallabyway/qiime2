@@ -1,0 +1,5 @@
+qiime2_env: envs/qiime2.yaml
+
+primers:
+  forward: GTGYCAGCMGCCGCGGTAA
+  reverse: GGACTACNVGGGTWTCTAAT
