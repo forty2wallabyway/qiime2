@@ -1,0 +1,3 @@
+sample-id    forward-absolute-filepath    reverse-absolute-filepath
+S01    /full/path/qiime2_project/data/fastq/S01_R1.fastq.gz    /full/path/qiime2_project/data/fastq/S01_R2.fastq.gz
+S02    /full/path/qiime2_project/data/fastq/S02_R1.fastq.gz    /full/path/qiime2_project/data/fastq/S02_R2.fastq.gz
