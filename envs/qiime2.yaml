@@ -1,0 +1,6 @@
+name: qiime2-2024.2
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - qiime2=2024.2
